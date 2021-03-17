@@ -65,6 +65,8 @@ fisher.test(table1)
 
  p-value= 0.0000659. The p-value is very small that the result was have found are not likely to have occur by chance
 
+looking at the odd ration of 1.543902 this informs us that women who got the drug are 1.5 times more likely to get aids than compared to women getting the placebo
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
